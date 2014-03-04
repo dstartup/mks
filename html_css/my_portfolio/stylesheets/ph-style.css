@@ -1,0 +1,112 @@
+h1 {
+	color:#444543;
+	margin-left: 1%;
+	margin-top:1%;
+	margin-right:1%;
+	font-size:20;
+	background-color: #abada6;
+	padding: 10px 10px 10px 10px;
+}
+
+p {
+	color:white;
+}
+body {
+	background-color:#888a86;
+}
+
+p.first {
+	margin-left: 1%;
+	margin-right:1%;
+	margin-bottom:0;
+	font-size:12;
+	background-color: #204288;
+	padding: 2px 2px 2px;
+}
+p.second {
+	margin: 0 1% 0 1%;
+	font-size:12;
+	background-color: #3150ad;
+	padding: 2px 2px 2px 2px;
+}
+p.third {
+	margin: 0 1% 0 1%;
+	font-size:12;
+	background-color: #405bad;
+	padding: 2px 2px 2px 2px;
+}
+p.fourth {
+	margin: 0 1% 0 1%;
+	font-size:12;
+	background-color: #4c65ad;
+	padding: 2px 2px 2px 2px;
+}
+p.fifth {
+	margin: 0 1% 0 1%;
+	font-size:12;
+	background-color: #5a6fb0;
+	padding: 2px 2px 2px 2px;
+}
+p.sixth {
+	margin: 0 1% 0 1%;
+	font-size:12;
+	background-color: #7081b3;
+	padding: 2px 2px 2px 2px;
+}
+p.seventh {
+	margin: 0 1% 0 1%;
+	font-size:12;
+	background-color: #8893b5;
+	padding: 2px 2px 2px 2px;
+}
+p.eighth {
+	margin: 0 1% 0 1%;
+	font-size:12;
+	background-color: #2da679;
+	padding: 2px 2px 2px 2px;
+}
+p.ninth {
+	margin: 0 1% 0 1%;
+	font-size:12;
+	background-color: #fa96e1;
+	padding: 2px 2px 2px 2px;
+}
+p.tenth {
+	margin: 0 1% 0 1%;
+	font-size:12;
+	background-color: #fa7ddb;
+	padding: 2px 2px 2px 2px;
+}
+p.eleventh {
+	margin: 0 1% 0 1%;
+	font-size:12;
+	background-color: #fa5cd3;
+	padding: 2px 2px 2px 2px;
+}
+p.twelfth {
+	margin: 0 1% 0 1%;
+	font-size:12;
+	background-color: #ed409c;
+	padding: 2px 2px 2px 2px;
+}
+p.thirteenth {
+	margin: 0 1% 0 1%;
+	font-size:12;
+	background-color: #f23383;
+	padding: 2px 2px 2px 2px;
+}
+p.fourteenth {
+	margin: 0 1% 0 1%;
+	font-size:12;
+	background-color: #f21873;
+	padding: 2px 2px 2px 2px;
+}
+p.fifteenth {
+	margin: 0 1% 0 1%;
+	font-size:12;
+	background-color: #f50f48;
+	padding: 2px 2px 2px 2px;
+}
+span {
+	font-size:30px;
+}

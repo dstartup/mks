@@ -1,0 +1,14 @@
+.first {
+	font-family: "Condiment";
+	font-style: italic;
+}
+.second {
+	font-family: "Revalia";
+	text-transform: uppercase;
+}
+.third {
+	font-family: "Gabriela";
+}
+.tenpx {
+	font-size: 10px;
+}
