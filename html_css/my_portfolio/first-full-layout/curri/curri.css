@@ -1,97 +1,156 @@
 body {margin: 0;}
-
 .partners, .work, .footer {
 	width: 100%;
 }
-
 header {
-	height: 70px;
-	background: blue;
+	height: 80px;
+	background: #E1E2ED;
 	width: 100%;
 }
-
-.pic-wrap {
-	background: gray;
-	height: 310px;
+.content-wrapper {
 	width: 930px;
+	background: #E1E2ED;
+	height: 80px;
 	margin: 0 auto;
-	box-sizing: border-box;
+}
+nav, #main-logo, .hire {
+	display: inline-block;
+	float: left;
+	margin-left: 10px;
+	padding-top: 30px;
+}
+nav {
+	margin-left:  300px;
+	margin-top: 5px;
+	height: 30px;
+	background-color: #E1E2ED;
+}
+
+
+a.menu:hover {
+	color: black;
+	background-color: white;
+	padding-top: 35px;
+	padding-bottom: 27px;
+}
+.hire {
+	height: 36px;
+    width: 70px;
+    position: relative;
+    background-color: #29C3E6;
+    border-radius: 100%;
+    color: white;
+    margin-top: 5px;
+    margin-left: 40px;
+    text-align: center;
+    font-family: Papyrus;
+    -webkit-transform:rotate(-11deg);
 }
 .picture, .pitch {
 	display: inline-block;
 	float: left;
-	color: white;
 	margin-left: 10px;
-	box-sizing: border-box;
-}
+	}
 .picture {
-	background: blue;
 	height: 30px;
 	width: 50px;
-	color: white;
-	margin-left: 40px;
-	margin-top: 5px;
+	margin-left: 80px;
+	margin-top: 30px;
+	}
+.pic-wrap {
+	background: #774BBF;
+	height: 315px;
 	}
 .img-circle {
 	border-radius: 50%;
+	border: 2px solid white;
 }
-
 .pitch {
-	background: gray;
+	background: #774BBF;
 	height: 280px;
 	width: 480px;
 	color: white;
-	margin-left: 250px;
-	margin-top: 20px;
-	padding-left: 5px;
+	margin-left: 300px;
+	margin-top: 0px;
+	padding-left: 20px;
+	box-sizing: border-box;
+}
+.bluefont {
+	color: #0C1AAD;
+}
+.findmore {
+	height: 40px;
+    width: 140px;
+    position: relative;
+    background-color: #E1E2ED;
+    padding: 5px 5px 5px 5px;
+    border-radius: 10%;
+    color: blue;
+    display: inline;
+    margin-top: 5px;
+    text-align: center;
+    font-family: Papyrus;
+    font-weight:bold;
 }
 .partners {
 	height: 100px;
-	background: orange;
-
+	background: #E1E2ED;
+}
+.partner-wrap {
+	background: #E1E2ED;
+	height: 100px;
+	display: inline-block;
+}
+.SP {
+	float: left;
+	margin-top: 30px;
+	margin-left: 60px;
+}
+.OWB {
+	float: left;
+	margin-top: 15px;
+	margin-left: 130px;
+}
+.NIA {
+	float: left;
+	padding-top: 25px;
+	margin-left: 130px;
+	font-family: "Arial Black";
+	font-weight: bold;
+	font-size: 15px;
+	color: gray;
+}
+.rarrow {
+	float: left;
+	padding-top: 25px;
+	margin-left: 60px;
+	font-size: 50px;
+	color: #29C3E6;
+}
+.larrow {
+	float: left;
+	padding-top: 25px;
+	margin-left: 75px;
+	font-size: 50px;
+	color: #29C3E6;
+}
+.darrow {
+	-webkit-transform:rotate(180deg);
 }
 .work {
 	height: 500px;
-	background: red;
+	background: white;
+	margin-left: 75px;
+	font-size: 20px;
+	color: gray;
 }
-
+.workpics {
+	float: left;
+	margin: 0 auto;
+}
 .footer {
 	background: purple;
 	height: 20px;
 }
-.content-wrapper {
-	width: 930px;
-	background: white;
-	height: 40px;
-	margin: 0 auto;
-}
-a.menu:hover {
-	color: black;
-	background-color: #D6D6D0;
-	padding-top: 10px;
-	padding-bottom: 12px;
-}
-.hire {
-	height: 30px;
-    width: 70px;
-    border: 2px solid black;
-    background-color: green;
-    box-shadow: 5px 5px 5px #888;
-    border-radius: 50%;
-    color: white;
-    margin-top: 5px;
-    text-align: center;
-}
-nav, #main-logo, .hire {
-	display: block;
-	float: left;
-	margin-left: 10px;
-	padding-top: 10px;
 
-}
-nav {
-	margin-left:  500px;
-	height: 30px;
-	background-color: white;
-	padding-top: 10px;
-}
+
